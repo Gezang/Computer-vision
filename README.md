@@ -1,4 +1,4 @@
-# SF2935-Project
+# Computer Vision for classifying brain MRI scans
 
 This repository is for a project in computer vision.
 
