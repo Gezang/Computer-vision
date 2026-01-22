@@ -2,11 +2,11 @@
 
 This repository is for a project in computer vision.
 
-We compare two models (CNN and SVM) for classifying brain tumor MRIs
+The project compares two models (CNN and SVM) for classifying brain tumor MRIs
 
 ## Structure of the code
 
-The code in 'network.ipynb' can be used to recreate the results we obtained. The code is divided into sections as follows:
+The code in 'network.ipynb' can be used to recreate the results obtained. The code is divided into sections as follows:
 
 1. Data preprocessing
 2. Plotting some samples (Augmented)
