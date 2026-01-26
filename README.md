@@ -14,6 +14,10 @@ The code in 'network.ipynb' can be used to recreate the results we obtained. The
 4. Build and train SVM
 5. Analysis of both models performance.
 
+## Report
+
+The project report can be found in report.pdf.
+
 ## Data:
 
 The data can be downloaded either through Kaggles website or by running the code in download-data.ipynb. (One might need to change the directory where the code looks for the data.)
