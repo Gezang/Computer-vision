@@ -6,7 +6,7 @@ The project compares two models (CNN and SVM) for classifying brain tumor MRIs
 
 ## Structure of the code
 
-The code in 'network.ipynb' can be used to recreate the results obtained. The code is divided into sections as follows:
+The code in [analysis.ipynb](analysis.ipynb) can be used to recreate the results obtained. The code is divided into sections as follows:
 
 1. Data preprocessing
 2. Plotting some samples (Augmented)
@@ -16,9 +16,8 @@ The code in 'network.ipynb' can be used to recreate the results obtained. The co
 
 ## Report
 
-The project report can be found in report.pdf.
+The project report can be found in [report.pdf](report.pdf).
 
 ## Data:
 
-The data can be downloaded either through Kaggles website or by running the code in download-data.ipynb. (One might need to change the directory where the code looks for the data.)
-https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data
+The dataset was found on Kaggle. To download the dataset visit [Brain-MRI-Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data).
